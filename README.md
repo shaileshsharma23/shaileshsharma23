@@ -1,4 +1,4 @@
-[![Masterhead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)]
+
 <h1 align="center">Hi 👋, I'm Shailesh sharma</h1>
 <h3 align="center">Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data science.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
