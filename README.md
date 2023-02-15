@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shailesh sharma</h1>
 <h3 align="center">Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data science.</h3>
-<img align="right" alt="Coding" width=400 src="(https://www.washingtonpost.com/resizer/lIFBQQ_tuy0hPngCp_F0ZTNs4aw=/arc-anglerfish-washpost-prod-washpost/public/L2BQDHSHIVHP3EIMUJ57XFXG2I.jpg)">
+<img align="right" alt="Coding" width=400 src="https://www.washingtonpost.com/resizer/lIFBQQ_tuy0hPngCp_F0ZTNs4aw=/arc-anglerfish-washpost-prod-washpost/public/L2BQDHSHIVHP3EIMUJ57XFXG2I.jpg"/>
 
 - 👨‍💻 All of my projects are available at  [Data Science Portfolio](https://github.com/shaileshsharma23/Portfolio)
 
