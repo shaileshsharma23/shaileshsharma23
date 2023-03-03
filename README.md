@@ -5,6 +5,8 @@
 <img align="right" alt="Coding" width=400 height=400 src="https://www.washingtonpost.com/resizer/lIFBQQ_tuy0hPngCp_F0ZTNs4aw=/arc-anglerfish-washpost-prod-washpost/public/L2BQDHSHIVHP3EIMUJ57XFXG2I.jpg" />
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaileshsharma23" alt="shaileshsharma23" /></a> </p>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaileshsharma23&show_icons=true&locale=en" alt="shaileshsharma23" /></p>
 
 - 👨‍💻 All of my projects are available at  [Data Science Portfolio](https://github.com/shaileshsharma23/Portfolio)
 
